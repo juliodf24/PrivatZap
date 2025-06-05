@@ -6,21 +6,33 @@
 
 ## 🚀 Funcionalidades
 
-- 🔒 **Blur automático** nas mensagens do WhatsApp Web
+- 🔒 **Desfoque automático** nas mensagens do WhatsApp Web
 - 👁️‍🗨️ **Revele o conteúdo ao passar o mouse**
-- ⚙️ Botão para **ativar ou desativar** facilmente
-- 💡 Interface leve, intuitiva e rápida
+- ⚙️ Ative ou desative com apenas um clique
+- 🧩 Interface leve, rápida e fácil de usar
 
 ---
 
-## 🖥️ Captura de Tela (exemplo)
+## 🖼️ Captura de Tela
 
 *Adicione aqui uma imagem ou GIF mostrando a extensão em uso.*
 
 ---
 
-## 📦 Instalação
+## 📦 Como instalar no Chrome (modo desenvolvedor)
 
-1. Clone este repositório ou [baixe o ZIP](https://github.com/seu-usuario/seu-repo/archive/refs/heads/main.zip):
-   ```bash
-   git clone https://github.com/seu-usuario/privatzap.git
+1. **Baixe o código da extensão:**
+   - Clique em **Code > Download ZIP** aqui no GitHub, ou acesse este link direto:  
+     [Download ZIP](https://github.com/seu-usuario/privatzap/archive/refs/heads/main.zip)
+
+2. **Extraia o arquivo ZIP** em uma pasta no seu computador.
+
+3. **Abra o Google Chrome** e digite na barra de endereços: **chrome://extensions/**
+
+4. **Ative o "Modo do desenvolvedor"** (canto superior direito da tela).
+
+5. Clique em **"Carregar sem compactação"** (ou *Load unpacked*).
+
+6. **Selecione a pasta** onde você extraiu os arquivos da extensão.
+
+7. Pronto! A extensão aparecerá na barra de extensões do Chrome.
