@@ -13,11 +13,6 @@
 
 ---
 
-## 🖼️ Captura de Tela
-
-*Adicione aqui uma imagem ou GIF mostrando a extensão em uso.*
-
----
 
 ## 📦 Como instalar no Chrome (modo desenvolvedor)
 
