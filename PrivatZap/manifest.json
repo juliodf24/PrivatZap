@@ -1,0 +1,22 @@
+{
+  "name": "PrivatZap",
+  "description": "Extensão de privacidade para whatsapp",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": "images/icon.png"
+  },
+
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+B",
+        "mac": "Command+B"
+      }
+    }
+  },
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}

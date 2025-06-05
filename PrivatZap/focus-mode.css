@@ -1,0 +1,7 @@
+
+._ak8l, .message-in, .message-out,img, header{
+    filter: blur(0.3rem)!important;
+}
+._ak8l:hover, .message-in:hover,.message-out:hover, img:hover, header:hover{
+    filter: none!important;
+}
