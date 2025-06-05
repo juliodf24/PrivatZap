@@ -18,7 +18,7 @@
 
 1. **Baixe o código da extensão:**
    - Clique em **Code > Download ZIP** aqui no GitHub, ou acesse este link direto:  
-     [Download ZIP](https://github.com/seu-usuario/privatzap/archive/refs/heads/main.zip)
+     [Download ZIP](https://github.com/juliodf24/PrivatZap/archive/refs/heads/main.zip)
 
 2. **Extraia o arquivo ZIP** em uma pasta no seu computador.
 
